@@ -1,0 +1,27 @@
+{
+    "listaProductos":[
+        {
+            "titulo":"Lapiz Grafito",
+            "imagen": "https://librerialapaloma.cl/wp-content/uploads/2020/05/lapiz-grafito-faber-castell.jpg",
+            "descripcion": "Lapiz grafito puede venir en didstintas medidas dependiendo del cliente",
+            "valor": "$1.000",
+            "stock": "4"
+        },
+        {
+                
+            "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-d5ObV44F6rzLPKg0LvlduGQdJPJ4Ahc9Q&s",
+            "titulo":"Grey Hat",
+            "valor":"$3.000",
+            "descripcion":"Gorro sintetico de verano, ideal para protegerse contra el viento de la playa",
+            "stock": "2"
+        },
+        {
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGu2DKGsz7wECr792ZNFYdWbbgsN60YwSIeA&s",
+            "titulo": "Polera de one piece - Trafalgar Law",
+            "valor": "$5.000",
+            "descripcion": "Polera de Trafalwar law - Heart Pirates",
+            "stock": "6"
+        }
+        
+    ]
+}
